@@ -19,3 +19,8 @@ Variable name does not starts with a number
 ### my learnings
 
 variable are the container which stores value as in the memory address
+
+
+q4 >> i learn that string is concat with another string and if an integer is concat with string then type coersion is required to the int data
+
+q5>> we found the results as 22 because the precidence of the operator in this case ( ** ) is more operand after that ( * )multiplication then after    ( + )
