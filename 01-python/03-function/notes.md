@@ -52,7 +52,6 @@ input()
 type()
 range()
 
-
 **Lambda Functions**
 Lambda functions are short, one-liner functions that are used to perform simple tasks. These are created using "**lambda**"  the keyword. These functions are anonymous & do not have a name like regular functions defined with "**def**" .
 Lambda function Syntax:
@@ -68,3 +67,22 @@ Let’s see an example of a lambda function that computes square of a number
 ```
 # fnx to compute x^2 square = lambda x: x * x print(square(5))
 ```
+
+
+
+ **Q3 AND Q4 solutions**
+
+in problem  no 3 and 4 the logic is just extract the end digit and store that in an other variable after that add the digits  by taking a varible sum and one by one add them by sum+= the digit extractor after that end of the loop retur the sum value or count value
+
+
+@Q7 (reference form gpt)
+
+Jab aap `num = int(i)` ko `input()` ke turant baad likhte hain, toh error isliye aata hai kyunki **"quit" ek word (string) hai, number nahi.**
+
+### Error Kyun Aata Hai?
+
+1. User ne type kiya: `quit`
+2. Python ne variable `i` mein store kiya: `"quit"`
+3. Agli line mein aapne kaha: `num = int(i)` (Yani: "quit" ko number mein badlo).
+4. Python confuse ho jata hai kyunki  **"quit" ka koi integer value nahi hota** .
+5. Is wajah se Python ek **`ValueError`** fek deta hai aur program wahin ruk jata hai.
