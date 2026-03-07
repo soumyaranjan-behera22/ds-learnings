@@ -27,9 +27,6 @@ This repository contains my **learning journey, coding practice, and data scienc
 - Power BI
 
 ## 📂 Repository Structure
-
-## 📂 Repository Structure
-
 ```text
 ds-learnings/
 │
