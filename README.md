@@ -107,6 +107,6 @@ Python project for managing student records.
 
 ## 📫 Contact
 
-GitHub: https://github.com/soumyaranjan-behera22
-LinkedIn:https://www.linkedin.com/in/soumyaranjan-behera007/
+GitHub: https://github.com/soumyaranjan-behera22<br>
+LinkedIn:https://www.linkedin.com/in/soumyaranjan-behera007/ <br>
 Email: soumya.rbehera007@gmail.com
