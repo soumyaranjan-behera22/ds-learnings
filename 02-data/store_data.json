@@ -1,0 +1,58 @@
+[
+    {
+        "id": "one",
+        "name": "John Doe",
+        "age": 28,
+        "email": "john.doe@gmail.com",
+        "join_date": "2023-01-15",
+        "salary": 50000
+    },
+    {
+        "id": "two",
+        "name": "jane smith",
+        "age": "32",
+        "email": "JANE.SMITH@YAHOO.COM",
+        "join_date": "12/05/2022",
+        "salary": 62000
+    },
+    {
+        "id": 3 ,
+        "name": " Bob Wilson ",
+        "age": -5,
+        "email": "bob.wilson",
+        "join_date": "2023-03-20",
+        "salary": "75k"
+    },
+    {
+        "id": 4 ,
+        "name": "Alice Brown",
+        "age": null,
+        "email": "alice.b@gmail.com",
+        "join_date": "2023-06-10",
+        "salary": 55000
+    },
+    {
+        "id": 5 ,
+        "name": "Charlie Day",
+        "age": 45,
+        "email": "charlie@gmail.com",
+        "join_date": "2023-07-22",
+        "salary": 5000000
+    },
+    {
+        "id": 12 ,
+        "name": "John Doe",
+        "age": 28,
+        "email": "john.doe@gmail.com",
+        "join_date": "2023-01-15",
+        "salary": 50000
+    },
+    {
+        "id": null,
+        "name": "Eve Adams",
+        "age": 29,
+        "email": "eve@gmail.com",
+        "join_date": "N/A",
+        "salary": 48000
+    }
+]
