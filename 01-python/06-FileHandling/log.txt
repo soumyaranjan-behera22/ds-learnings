@@ -1,0 +1,8 @@
+INFO: Starting process to write list data to file.
+INFO: File 'data.txt' opened successfully in write mode.
+INFO: Writing list elements to file.
+DEBUG: Element '10' written to file.
+DEBUG: Element '20' written to file.
+DEBUG: Element '30' written to file.
+Program run Sucessfully
+Program run Sucessfully
