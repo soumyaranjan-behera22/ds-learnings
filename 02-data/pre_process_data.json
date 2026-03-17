@@ -54,5 +54,21 @@
         "email": "eve@gmail.com",
         "join_date": "N/A",
         "salary": 48000
+    },
+    {
+        "id": 19,
+        "name": "Charlie puth",
+        "age": 15,
+        "email": "charlie@gmail.com",
+        "join_date": "2023-07-22",
+        "salary": 5000000
+    },
+    {
+        "id": 17,
+        "name": "Charlie Day",
+        "age": 14,
+        "email": "charlie@gmail.com",
+        "join_date": "2023-07-22",
+        "salary": 5000000
     }
 ]
