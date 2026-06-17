@@ -247,3 +247,36 @@ SELECT avg(Salary) from Employee;
 SELECT Department, COUNT(EmpID) from Employee
 GROUP BY Department
 HAVING COUNT(EmpID)>=3;
+
+show DATABASES;
+use companyDB;
+ALTER TABLE departments
+RENAME TO department ;
+
+-- ASIIGNMENT 2 FROM CHATGPT
+
+-- ADD values in the tables 
+-- departments table
+CREATE TABLE Departments (
+    dept_id INT PRIMARY KEY,
+    dept_name VARCHAR(50) UNIQUE NOT NULL
+);
+
+INSERT INTO Departments VALUES
+(101, 'HR'),
+(102, 'IT'),
+(103, 'Finance'),
+(104, 'Marketing'),
+(105, 'Operations');
+
+SELECT * FROM Departments;
+
+
+ drop table Employee;
+
+select * from Projects;
+show tables;
+
+drop DATABASE companyDB ;
+
+SHOW DATABASES;
