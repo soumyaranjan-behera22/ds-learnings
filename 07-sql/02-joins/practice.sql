@@ -290,3 +290,5 @@ JOIN projects p
 ON p.project_id = ep.project_id
 GROUP BY dept_name
 HAVING count(d.dept_id) >2
+
+
